@@ -1318,4 +1318,4 @@ def server_error():
 
 
 if __name__ == '__main__':
-    app.run(debug=False, port='0.0.0.0')
+    app.run(debug=True, port=80)
